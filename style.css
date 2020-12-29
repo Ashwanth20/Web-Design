@@ -1,0 +1,18 @@
+h1{color : wheat}
+
+        .header
+        {
+            background-color: rgb(32, 30, 30);
+            justify-content: center;
+            text-emphasis-color: wheat;
+            text-align: center;
+        }
+        .media
+        {
+            display: flex;
+            justify-content: flex-end;
+        }
+        .word
+        {
+            text-align: end;
+        }
